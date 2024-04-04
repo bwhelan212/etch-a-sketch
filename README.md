@@ -1,1 +1,1 @@
-# etch-a-sketch
+This project is an etch a sketch messing around with css and flexbox :P
