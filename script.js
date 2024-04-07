@@ -60,3 +60,9 @@ selectButton.addEventListener("click", (e)=> {
     resizeGrid(newSize);
     hover();
 });
+
+//change the color of the backgroud
+const randButton = documet.querySelector('#rand');
+randButton.addEventListener("click", (e)=> {
+    
+});
